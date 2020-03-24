@@ -14,3 +14,8 @@ Most if not all jailbreaks use .TAR archives to deploy these. Having a few dozen
 3) Open Terminal and `cd` into the newly made `basebins` folder.
 4) Run `tar cvf basebins.tar --exclude=".*" ./jb/`
 5) This should create a new .tar file with all the binaries but not with .DS_Store, etc.
+
+## For questions:
+
+* GeoSn0w (@FCE365): https://twitter.com/FCE365
+* YouTube: iDevice Central: https://www.youtube.com/fce365official

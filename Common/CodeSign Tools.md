@@ -25,3 +25,8 @@ This has the advantage that you don't necessarily need to add every single binar
 For this I usually use codesign (built-in on macOS). It does allow you to add entitlements from an XML file which is neat, and it allows you to select a signing identity from the Keychain. 
 
 For more info on the usage, run `man codesign` in Terminal.
+
+## For questions:
+
+* GeoSn0w (@FCE365): https://twitter.com/FCE365
+* YouTube: iDevice Central: https://www.youtube.com/fce365official

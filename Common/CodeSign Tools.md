@@ -13,6 +13,12 @@ For properly code-signing the base binaries for the jailbreak I personally use j
 
 * Jtool2 can be found here: http://www.newosxbook.com/tools/jtool.html
 
+### Example signing with jtool2, with an entitlements XML file:
+`jtool2 --sign --ent Entitlements.xml /Users/geosn0w/Desktop/dropbear`
+
+### Checking the signature of a Mach-O binary with jtool2:
+`jtool2 --sig --ent /Users/geosn0w/Desktop/dropbear`
+
 ## Tools for real-signing (as in, signing with certificate and all that)
 This has the advantage that you don't necessarily need to add every single binary to AMFI's TrustCache, but you do need a real Apple certificate. A p12 or even your own Apple Developer ID. 
 

@@ -1,6 +1,3 @@
-[submodule "iOS 13/time_waste"]
-	path = iOS 13/tfp0 Kernel Exploits/time_waste
-	url = https://github.com/jakeajames/time_waste
 [submodule "iOS 12/tfp0 Kernel Exploits/sock_port"]
 	path = iOS 12/tfp0 Kernel Exploits/sock_port
 	url = https://github.com/jakeajames/sock_port
